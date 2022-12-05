@@ -4,12 +4,10 @@
 
 ## I'm Peng Liang Ke
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning BiliBili
-- 💬 Ask me about Java, Typescript and my projects
-- 📫 How to reach me: [twoke945@163.com](twoke945@163.com)
+- 💬 Ask me about Java、 Typescript and my projects
+- 📫 How to reach me: <a href="mailto:twoke945@163.com">twoke945@163.com</a>
 - 😄 Pronouns: [Blog](https://twoke.gitee.io/blog/)
-- ⚡ Fun fact: Table tennis
+- ⚡ Fun fact: Table tennis、Badminton ball
 
 ## Language
 ![Top%20Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwoKe945&layout=compact)
